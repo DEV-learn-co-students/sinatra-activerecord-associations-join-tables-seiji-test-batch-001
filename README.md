@@ -1,0 +1,1 @@
+# sinatra-activerecord-associations-join-tables-seiji-test-batch-001
